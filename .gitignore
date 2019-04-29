@@ -2,3 +2,4 @@
 .local/
 .jupyter/
 .ipynb_checkpoints/
+.cache/
